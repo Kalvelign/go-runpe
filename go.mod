@@ -1,4 +1,4 @@
-module libpe
+module go-runpe
 
 go 1.19
 
